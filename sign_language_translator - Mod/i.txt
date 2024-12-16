@@ -1,0 +1,7 @@
+r'C:\Users\hp\mayukh\Project\sign_language_translator\model.p'
+python C:\Users\hp\mayukh\other\Project\sign_language_translator\app.py
+set FLASK_APP=mayukh\other\Project\sign_language_translator\app.py
+flask run
+esp 32
+Ender 3
+fritzing
